@@ -6,3 +6,8 @@ The question-answers and enclycopedia entries are within the modern-developer re
 
 
 The group project for this chapter is on a github page.
+
+
+# Update 
+
+Portfolio up on a github page at: https://kauress.github.io/MD_JS_portfolio/
